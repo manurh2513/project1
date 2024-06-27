@@ -3,4 +3,4 @@ project1
 <br> 
 manu rh
 <br>
-this my fisrt repo
+this is my fisrt repo
