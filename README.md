@@ -1,6 +1,3 @@
-# project1
-project1
-<br> 
-manu rh
-<br>
-this is my fisrt repo
+project repo
+this is my project1 repo
+
